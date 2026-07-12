@@ -248,7 +248,7 @@ rebuilding the whole pipeline.
 
 ## 🙏 Acknowledgements
 
-This project was built in a short, intense span of time by Team STAR — Dristi Shakya, Sweta Aryal, and Purnima Pant. We learned a lot along the way, from debugging real-time systems to grounding an LLM's responses in truth. Our hope is that ideas like Sarathi can, in some small way, make the world a little more accessible.
+This project was built in a short, intense span of time by Team Star — Dristi Shakya, Sweta Aryal, and Purnima Pant. We learned a lot along the way, from debugging real-time systems to grounding an LLM's responses in truth. Our hope is that ideas like Sarathi can, in some small way, make the world a little more accessible.
 
 Thank you to everyone who supported and mentored us throughout this hackathon.
 
