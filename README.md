@@ -1,5 +1,9 @@
 # Sarathi 🎙️
 
+<img width="1196" height="596" alt="image" src="https://github.com/user-attachments/assets/70354cf9-37ce-4e83-9f2c-2b5269c75a15" />
+
+<img width="852" height="589" alt="image" src="https://github.com/user-attachments/assets/5886062f-40b8-40b1-a3d3-4537f7f4ad34" />
+
 **Sarathi** ("साथी/सारथी" — companion, guide, charioteer in Nepali) is a
 Nepali-language voice assistant that helps visually impaired users understand
 what's around them. Point a camera at a scene — through a photo or live
